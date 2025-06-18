@@ -1,0 +1,17 @@
+# macOS system files
+.DS_Store
+
+# Office temp files
+~$*
+
+# Excel backup and cache files
+*.bak
+*.tmp
+
+# Python or Jupyter if you're using for analysis
+__pycache__/
+.ipynb_checkpoints/
+
+# VS Code or JetBrains IDE
+.vscode/
+.idea/
